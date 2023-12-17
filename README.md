@@ -32,6 +32,7 @@ In order to generate our final submission file, you have to run :
 
 ```
 Data_Pre_Processing.ipynb
+Split_the_data.ipynb
 Feature_Engineering.ipynb
 Run_Classical_ML_methods.ipynb
 Run_Todo mettre le nom du fichier de sara
