@@ -1,2 +1,43 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/fEFF99tU)
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=13072148&assignment_repo_type=AssignmentRepo)
+# ML-powered Tool for assisted design of Buildings 
+
+This project was developed as part of the EPFL Machine Learning course (2023).
+
+## Authors
+- Malak Lahlou Nabil
+- Sara Anejjar
+- Antoine Schutz
+
+## Summary
+This repository contains code used for a Machine Learning for Science project : ML-powered Tool for assisted design of Buildings .
+It focuses on automating the labor-intensive and resource-demanding process of building design.The tool aims to leverage ML to predict structural specifications and safety evaluations from basic architectural and location-based data of
+200 buildings.
+
+
+### File description
+TODO
+
+
+## Requirements
+- Python 3
+  - `numpy`
+  - `pandas`
+  - `sklearn`
+  - `keras`
+  - `matplotlib` and `seaborn`
+  
+## Usage
+
+
+In order to generate our final submission file, you have to run : 
+
+```
+Data_Pre_Processing.ipynb
+Feature_Engineering.ipynb
+Run_Classical_ML_methods.ipynb
+Run_Todo mettre le nom du fichier de sara
+```
+
+
+## Results
+TODO RESULT 
+
