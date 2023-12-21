@@ -58,6 +58,10 @@ It focuses on automating the labor-intensive and resource-demanding process of b
 
 To Create Our ML models , run the following files 
 
+(The preprocessing Steps are stored in 'Files/After_Feature_Engineering' so you can directly run the notebooks
+if you want to rerun the 3 Data_Pre_Processing/Split_the_data/Feature_Engineeringyou have to create the following folders : 
+  'Files/After_Feature_Engineering' and 'Files/Before_Feature_Engineering')
+
 ```
 Data_Pre_Processing.ipynb                  :(The output of Data_pre_Processing is already stored in Files/Before_Feature_Engineering)
 Split_the_data.ipynb                       :(The output of Split_the_data is already stored in both Files/After_Feature_Engineering and Files/Before_Feature_Engineering)
