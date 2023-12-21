@@ -49,6 +49,9 @@ It focuses on automating the labor-intensive and resource-demanding process of b
   - `sklearn`
   - `TensorFlow`and `keras`
   - `matplotlib` and `seaborn`
+  - `scikeras`
+  - `keras_tuner`
+  - `itertools`
   
 ## Usage
 
