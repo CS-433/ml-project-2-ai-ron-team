@@ -47,7 +47,7 @@ It focuses on automating the labor-intensive and resource-demanding process of b
   - `numpy`
   - `pandas`
   - `sklearn`
-  - `keras`
+  - `TensorFlow`and `keras`
   - `matplotlib` and `seaborn`
   
 ## Usage
