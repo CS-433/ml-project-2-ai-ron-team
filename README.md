@@ -1,4 +1,4 @@
-![image](https://github.com/CS-433/ml-project-2-ai-ron-team/assets/61978172/7a38eb3f-f91c-4e19-ba10-716f31c25a4a)# ML-powered Tool for assisted design of Buildings 
+# ML-powered Tool for assisted design of Buildings 
 
 This project was developed as part of the EPFL Machine Learning course (2023).
 
