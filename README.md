@@ -27,11 +27,11 @@ It focuses on automating the labor-intensive and resource-demanding process of b
 
 - my_dir : Contains Tuner Information for Hyperparameter Tuning for the Neural Networks
 
-- Data_Pre_Processing.ipynb : Extract the data from Excel Files, Create Clean csv
+- Data_Pre_Processing.py : Extract the data from Excel Files, Create Clean csv
 
-- Feature_Engineering.ipynb : Use the dataset created in Data_Pre_Processing and perform feature engineering ( one Hot encoding , Scaling , removing 0 var , ...)
+- Feature_Engineering.py : Use the dataset created in Data_Pre_Processing and perform feature engineering ( one Hot encoding , Scaling , removing 0 var , ...)
 
-- Split_the_data.ipynb : Split the data into Test and training set for model Tuning
+- Split_the_data.py : Split the data into Test and training set for model Tuning
 
 - Visualization.ipynb : Used to create Visualization during the Exploratory data Analysis 
 
@@ -63,9 +63,9 @@ if you want to rerun the 3 Data_Pre_Processing/Split_the_data/Feature_Engineerin
   'Files/After_Feature_Engineering' and 'Files/Before_Feature_Engineering')
 
 ```
-Data_Pre_Processing.ipynb                  :(The output of Data_pre_Processing is already stored in Files/Before_Feature_Engineering)
-Split_the_data.ipynb                       :(The output of Split_the_data is already stored in both Files/After_Feature_Engineering and Files/Before_Feature_Engineering)
-Feature_Engineering.ipynb                  :(The output of Data_pre_Processing is already stored in Files/After_Feature_Engineering)
+python3 Data_Pre_Processing.py                  :(The output of Data_pre_Processing is already stored in Files/Before_Feature_Engineering)
+python3 Split_the_data.py                       :(The output of Split_the_data is already stored in both Files/After_Feature_Engineering and Files/Before_Feature_Engineering)
+python3 Feature_Engineering.py                  :(The output of Data_pre_Processing is already stored in Files/After_Feature_Engineering)
 Run_Classical_ML_methods.ipynb
 Run_Neural_Networks.ipynb
 ```
