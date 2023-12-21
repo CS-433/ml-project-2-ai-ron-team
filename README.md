@@ -1,4 +1,4 @@
-# ML-powered Tool for assisted design of Buildings 
+![image](https://github.com/CS-433/ml-project-2-ai-ron-team/assets/61978172/7a38eb3f-f91c-4e19-ba10-716f31c25a4a)# ML-powered Tool for assisted design of Buildings 
 
 This project was developed as part of the EPFL Machine Learning course (2023).
 
@@ -24,6 +24,8 @@ It focuses on automating the labor-intensive and resource-demanding process of b
 
 
 - DatabaseGuidelines.pdf : Project details provided by the lab
+
+- ML-powered Tool for assisted design of Buildings : our final report
 
 - my_dir : Contains Tuner Information for Hyperparameter Tuning for the Neural Networks
 
