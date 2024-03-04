@@ -3,7 +3,7 @@
 This project was developed as part of the EPFL Machine Learning course (2023).
 
 ## Authors
-- [Malak Lahlou Nabil]:(https://github.com/mimimamalah)
+- [Malak Lahlou Nabil](https://github.com/mimimamalah)
 - [Sara Anejjar](https://github.com/saraanej)
 - [Antoine Schutz](https://github.com/antoineschutz)
 
