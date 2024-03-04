@@ -3,9 +3,9 @@
 This project was developed as part of the EPFL Machine Learning course (2023).
 
 ## Authors
-- Malak Lahlou Nabil
-- Sara Anejjar
-- Antoine Schutz
+- [Malak Lahlou Nabil]:(https://github.com/mimimamalah)
+- [Sara Anejjar](https://github.com/saraanej)
+- [Antoine Schutz](https://github.com/antoineschutz)
 
 ## Summary
 This repository contains code used for a Machine Learning for Science project : ML-powered Tool for assisted design of Buildings .
